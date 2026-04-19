@@ -30,7 +30,7 @@ outage. In service of that, we expect everyone participating here to:
 
 Maintainers may edit or delete content, close issues without response, or
 block users who violate this policy. Severe or repeated violations escalate
-to GitHub. For questions about enforcement, email `hello@neosmith.ai`.
+to GitHub. For questions about enforcement, email `contact-us@neosmith.ai`.
 
 ---
 

@@ -121,4 +121,4 @@ code samples we post in comments are public-domain / MIT.
 ---
 
 *NeoSmith AI · Public issue tracker · For private support, use your
-customer chat channel · hello@neosmith.ai*
+customer chat channel · contact-us@neosmith.ai*
