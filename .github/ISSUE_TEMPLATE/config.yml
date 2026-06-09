@@ -1,20 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 🚨 Production outage / P1 (use your private channel)
-    url: https://neosmith.ai/contact
-    about: For anything business-blocking RIGHT NOW, use your private chat channel with NeoSmith — don't wait on a public ticket.
-  - name: 🔐 Report a security vulnerability (don't post publicly)
-    url: mailto:security@neosmith.ai
-    about: Email security@neosmith.ai for anything that could affect customer data or auth integrity. Please don't file a public issue.
-  - name: 💳 Billing / cap / account
-    url: https://neosmith.ai/contact
-    about: Account-specific requests (raise my cap, billing reconciliation, off-boarding) — contact your NeoSmith account owner directly.
-  - name: 🔎 Live service status
-    url: https://router.neosmith.ai/status
-    about: Check whether we're already aware of an ongoing incident before filing.
-  - name: 📊 Your own usage dashboard
-    url: https://router.neosmith.ai/me
-    about: See your tokens consumed, remaining, and per-project breakdown (needs your Authorization header).
-  - name: 💬 Discussions
-    url: https://github.com/neosmith-ai/issues/discussions
-    about: Broader "how do I…" or "show-and-tell" — more flexible than an issue.
+  - name: Neosmith Developer Guide
+    url: https://neosmith-ai.github.io/developer-guide/
+    about: Setup docs, IDE integrations, agent configuration
